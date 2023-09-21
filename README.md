@@ -1,4 +1,4 @@
-👋 Hi there, I'm Hemang648!
+👋 Hi there, I'm Hemang Joshi!
 Welcome to my GitHub profile.
 
 🌱 I’m currently on a learning journey in the world of technology, constantly exploring new horizons and expanding my knowledge.

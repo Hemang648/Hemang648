@@ -1,8 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  
-  <img alt="Hemang Joshi" src="dark.svg">
-</picture>
+👋 Hi there, I'm Hemang Joshi !
+Welcome to my GitHub profile.
 
 🌱 I’m currently on a learning journey in the world of technology, constantly exploring new horizons and expanding my knowledge.
 
